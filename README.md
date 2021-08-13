@@ -13,3 +13,14 @@ cp icons/icon.ico icons/icon.icns
 rm -r bbg-darwin-x64
 cnpm run package_darwin 
 ```
+
+另外，如果本地已经有仓库（且依赖项均已安装）：
+
+```bash
+cd /path/to/bbg
+rm -r bbg-darwin-x64
+git add .
+git stash
+git pull
+cnpm run package_darwin
+```
