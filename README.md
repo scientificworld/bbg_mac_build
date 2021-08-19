@@ -2,6 +2,8 @@
 
 如题。
 
+目前最新版本为`20210817`，下载地址：<https://github.com/scientificworld/bbg_mac_build/releases/download/20210817/bbg-darwin-x64.zip>
+
 构建之前，请先看一下原仓库的[开发环境搭建指南](https://gitee.com/baiyang-lzy/bbg/blob/master/Docs/Developer_Guide.md)
 
 构建方法（macOS版）：
